@@ -24,27 +24,25 @@ For a detailed agenda, visit the [AusDM Tutorial Day 1 page](https://ausdm24.aus
 
 
 ## Organisers
-
-
-| **Dr. Ronal Singh**                                                                                               | **Prof Tim Miller**                                                                                               |
-|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| ![Dr. Ronal Singh](organisation/images/ronal.jpg) <br> **Dr. Ronal Singh** <br> Research Scientist <br> Human-Centric Security & CINTEL FSP @ CSIRO | ![Prof Tim Miller](organisation/images/tim.png) <br> **Prof Tim Miller** <br> Professor of AI <br> School of Electrical Engineering and Computer Science @ The University of Queensland |
----
-
-## Organisers
 <table>
   <tr>
     <td align="center">
-      <img src="organisation/images/ronal.jpg" width="100" height="100" alt="Dr. Jane Doe"><br>
+      <img src="organisation/images/ronal.jpg" width="150" height="150" alt="Dr. Ronal Singh"><br>
       <strong>Dr. Ronal Singh</strong><br>
        Research Scientist<br>
-      Human-Centric Security & CINTEL FSP @ CSIRO's Data61
+      Human-Centric Security & CINTEL FSP <br>
+      @ CSIRO's Data61<br>
+      Ronal is a Research Scientist with the Human Centric Security team in CSIRO's Data61 and a member of the CINTEL FSP. Ronal's primary interest lies in artificial intelligence, particularly multi-modal human-agent interactions, AI-assisted decision-making, explainable AI, intention recognition, and multiagent communication planning. Previously, he was a Research Fellow in Human-Agent Collaboration and an Associate Lecturer in the School of Computing and Information Systems at the University of Melbourne. Ronal completed his PhD in 2018 from the University of Melbourne and his BSc and MSc degrees in Computer Science from the University of the South Pacific in the Fiji Islands.
+        Website: https://people.csiro.au/s/r/ronal-singh
     </td>
     <td align="center">
-      <img src="organisation/images/tim.png" width="100" height="100" alt="Dr. John Smith"><br>
+      <img src="organisation/images/tim.png" width="150" height="150" alt="Prof Tim Miller"><br>
       <strong>Prof Tim Miller</strong><br>
       Professor of AI<br>
-      School of Electrical Engineering and Computer Science @ The University of Queensland
+      School of Electrical Engineering and Computer Science <br>
+      @ The University of Queensland <br>
+      Tim is a Professor of Artificial Intelligence in the School of Electrical Engineering and Computer Science at The University of Queensland, Meaanjin/Brisbane, Australia. His research draws on machine learning, reinforcement learning, AI planning, interaction design, and cognitive science, to help people to make better decisions. He has done work on areas including explainable AI, human-AI planning, and human-centered decision support. Prior to his appointment at The University of Queensland, Tim was a Professor of Computer Science in the School of Computing and Information Systems at The University of Melbourne, where he was founding co-director of The Centre for AI and Digital Ethics. He is an honorary professor at the University of Melbourne.
+        Website: https://about.uq.edu.au/experts/41328
     </td>
   </tr>
 </table>
@@ -53,8 +51,5 @@ For more details, please refer to the [official AusDM Tutorial Day 1 page](https
 
 
 
-Ronal is a Research Scientist with the Human Centric Security team in CSIRO's Data61 and a member of the CINTEL FSP. Ronal's primary interest lies in artificial intelligence, particularly multi-modal human-agent interactions, AI-assisted decision-making, explainable AI, intention recognition, and multiagent communication planning. Previously, he was a Research Fellow in Human-Agent Collaboration and an Associate Lecturer in the School of Computing and Information Systems at the University of Melbourne. Ronal completed his PhD in 2018 from the University of Melbourne and his BSc and MSc degrees in Computer Science from the University of the South Pacific in the Fiji Islands.
-Website: https://people.csiro.au/s/r/ronal-singh
 
-Tim is a Professor of Artificial Intelligence in the School of Electrical Engineering and Computer Science at The University of Queensland, Meaanjin/Brisbane, Australia. His research draws on machine learning, reinforcement learning, AI planning, interaction design, and cognitive science, to help people to make better decisions. He has done work on areas including explainable AI, human-AI planning, and human-centered decision support. Prior to his appointment at The University of Queensland, Tim was a Professor of Computer Science in the School of Computing and Information Systems at The University of Melbourne, where he was founding co-director of The Centre for AI and Digital Ethics. He is an honorary professor at the University of Melbourne.
-Website: https://about.uq.edu.au/experts/41328
+
