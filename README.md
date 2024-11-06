@@ -4,10 +4,9 @@
 This tutorial on Human-Centred Explainable AI (HCXAI) aims to equip participants with the knowledge and skills necessary to develop explainable AI systems. Through a human-centred approach, participants will explore core principles such as user understanding, trust calibration, and cognitive engagement. The session will cover a variety of explanation methods, offering guidance on designing effective explanations that enhance user understanding and interaction with AI systems. Attendees will gain insights into best practices for conducting user studies and evaluating XAI systems. Through interactive demonstrations and hands-on activities, they will deepen their practical knowledge. Participants will also receive support materials, including slides, links and references to XAI tools, and examples of user studies.
 
 ## Objectives
-- Understand the core principles and importance of Explainable AI (XAI) and Human-Centred approaches.
-- Learn about different explanation types and how to design effective explanations that enhance user understanding and trust.
-- Gain insights into techniques that support human-AI collaborative decision-making.
-- Learn to design and conduct user studies to evaluate the effectiveness of XAI systems.
+- Understand the principles and importance of Human-Centred Explainable AI (HCXAI).
+- Learn about different explanation types and how to design explanations to enhance user engagement and control.
+- Develop skills in designing and conducting user studies that evaluate XAI systems' effectiveness using metrics such as user understanding, trust, and cognitive load.
 
 ## Agenda
 For a detailed agenda, visit the [AusDM Tutorial Day 1 page](https://ausdm24.ausdm.org/Tutorial-Day1.html).
