@@ -13,7 +13,6 @@ This tutorial on Human-Centred Explainable AI (HCXAI) aims to equip participants
 - Develop skills in designing and conducting user studies that evaluate XAI systems' effectiveness using metrics such as user understanding, trust, and cognitive load.
 
 ## Agenda
-For a detailed agenda, visit the .
 
 | **Item**                       | **Time**      | **Activities**                                                                                                                                                     |
 |--------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -30,7 +29,7 @@ For a detailed agenda, visit the .
 <table>
   <tr>
     <td align="center">
-      <img src="organisation/images/ronal.jpg" width="150" height="150" alt="Dr. Ronal Singh"><br>
+      <img src="organisation/images/ronal.jpg" width="200" height="150" alt="Dr. Ronal Singh"><br>
       <strong>Dr. Ronal Singh</strong><br>
        Research Scientist<br>
       Human-Centric Security & CINTEL FSP <br>
