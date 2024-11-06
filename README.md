@@ -15,10 +15,10 @@ For a detailed agenda, visit the [AusDM Tutorial Day 1 page](https://ausdm24.aus
 | **Item**                       | **Time**      | **Activities**                                                                                                                                                     |
 |--------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Introduction                   | 20 minutes    | - Welcome and Objectives <br> - Overview of Explainable AI (XAI) <br> - Introduction to Human-Centred XAI (HCXAI)                                                 |
-| Overview of HCXAI              | 40 minutes    | - Key Concepts of HCXAI: Understanding, Trust, Usability, and Human-AI Collaboration                                        |
+| Overview of HCXAI              | 30 minutes    | - Key Concepts of HCXAI: Understanding, Trust, Usability, and Human-AI Collaboration                                        |
 | Explanation Methods            | 30 minutes    | - Types of Explanations: Local vs. Global, Model-agnostic vs. Model-specific <br> - Feature-based, Example-based, Concept-based explanations |
-| **Break**                      | 10 minutes    |                                                                                                                              |
-| Designing Effective Explanations | 40 minutes | - Increasing User Control and Engagement <br> - Avoiding Over-reliance and Under-reliance on AI predictions                   |
+| **Break**                      | 20 minutes    |                                                                                                                              |
+| Designing Effective Explanations | 30 minutes | - Increasing User Control and Engagement <br> - Avoiding Over-reliance and Under-reliance on AI predictions                   |
 | User Studies in XAI            | 30 minutes    | - Designing and Conducting User Studies <br> - Evaluation Metrics: User Understanding, Trust Calibration, Cognitive Load, and Task Performance |
 | Conclusion and Q&A             | 20 minutes    | - Summary of Key Concepts <br> - Open Discussion and Q&A <br> - Future Trends: Explainability for LLMs and ethical considerations |
 
