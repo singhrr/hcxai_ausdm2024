@@ -29,7 +29,7 @@ This tutorial on Human-Centred Explainable AI (HCXAI) aims to equip participants
 <table>
   <tr>
     <td align="center">
-      <img src="organisation/images/ronal.jpg" width="200" height="150" alt="Dr. Ronal Singh"><br>
+      <img src="organisation/images/ronal.jpg" width="180" height="150" alt="Dr. Ronal Singh"><br>
       <strong>Dr. Ronal Singh</strong><br>
        Research Scientist<br>
       Human-Centric Security & CINTEL FSP <br>
