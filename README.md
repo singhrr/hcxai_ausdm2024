@@ -26,9 +26,9 @@ For a detailed agenda, visit the [AusDM Tutorial Day 1 page](https://ausdm24.aus
 ## Organisers
 ## Organizers
 
-| Organizer                                                                                               | Organizer                                                                                               |
+| **Dr. Ronal Singh**                                                                                               | **Prof Tim Miller**                                                                                               |
 |--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| ![Dr. Ronal Singh](assets/jane_doe.jpg) <br> **Dr. Ronal Singh** <br> Research Scientist <br> Human-Centric Security & CINTEL FSP @ CSIRO | ![Prof Tim Miller](assets/john_smith.jpg) <br> **Prof Tim Miller** <br> Professor of AI <br> School of Electrical Engineering and Computer Science @ The University of Queensland |
+| ![Dr. Ronal Singh](organisation/images/ronal.jpg) <br> **Dr. Ronal Singh** <br> Research Scientist <br> Human-Centric Security & CINTEL FSP @ CSIRO | ![Prof Tim Miller](organisation/images/tim.png) <br> **Prof Tim Miller** <br> Professor of AI <br> School of Electrical Engineering and Computer Science @ The University of Queensland |
 ---
 
 For more details, please refer to the [official AusDM Tutorial Day 1 page](https://ausdm24.ausdm.org/Tutorial-Day1.html).
