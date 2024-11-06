@@ -49,7 +49,6 @@ This tutorial on Human-Centred Explainable AI (HCXAI) aims to equip participants
   </tr>
 </table>
 
-For more details, please refer to the [official AusDM Tutorial Day 1 page](https://ausdm24.ausdm.org/Tutorial-Day1.html).
 
 
 
