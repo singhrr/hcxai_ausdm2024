@@ -2,6 +2,8 @@
 
 ## The 22nd Australasian Data Science and Machine Learning Conference (AusDM'24) Melbourne, Australia | 25-27 November 2024
 
+[AusDM Tutorial Day 1 page](https://ausdm24.ausdm.org/Tutorial-Day1.html)
+
 ## Abstract
 This tutorial on Human-Centred Explainable AI (HCXAI) aims to equip participants with the knowledge and skills necessary to develop explainable AI systems. Through a human-centred approach, participants will explore core principles such as user understanding, trust calibration, and cognitive engagement. The session will cover a variety of explanation methods, offering guidance on designing effective explanations that enhance user understanding and interaction with AI systems. Attendees will gain insights into best practices for conducting user studies and evaluating XAI systems. Through interactive demonstrations and hands-on activities, they will deepen their practical knowledge. Participants will also receive support materials, including slides, links and references to XAI tools, and examples of user studies.
 
@@ -11,7 +13,7 @@ This tutorial on Human-Centred Explainable AI (HCXAI) aims to equip participants
 - Develop skills in designing and conducting user studies that evaluate XAI systems' effectiveness using metrics such as user understanding, trust, and cognitive load.
 
 ## Agenda
-For a detailed agenda, visit the [AusDM Tutorial Day 1 page](https://ausdm24.ausdm.org/Tutorial-Day1.html).
+For a detailed agenda, visit the .
 
 | **Item**                       | **Time**      | **Activities**                                                                                                                                                     |
 |--------------------------------|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
